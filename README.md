@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/1200x/10/1c/cf/101ccf27867939b54e5b1806cc588756.jpg" height=105"/>
 </p>
-<hr>
+
 <h1 align="center"> 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 
 <h3 align="left"> Entry-Level Programmer and Data Analyst </h3>
 </p>
