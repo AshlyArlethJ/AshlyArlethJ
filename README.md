@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/06/66/a9/0666a9a35e132550826323643da5bb8d.jpg" height="120"/>
+  <img src="https://i.pinimg.com/1200x/10/1c/cf/101ccf27867939b54e5b1806cc588756.jpg" height=105"/>
 </p>
 <hr>
-<h1 align="center"> <img src="https://i.pinimg.com/originals/e7/ff/e2/e7ffe217d5646eb2f049712491bd281d.gif" width="30px">  𝒲𝑒𝓁𝒸𝑜𝓂𝑒  <img src="https://i.pinimg.com/originals/e7/ff/e2/e7ffe217d5646eb2f049712491bd281d.gif" width="30px">
+<h1 align="center"> 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 
 <h3 align="left"> Entry-Level Programmer and Data Analyst </h3>
 </p>
 
