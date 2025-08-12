@@ -17,12 +17,12 @@ and programming, aiming to keep growing professionally and
 contribute value to every project I’m part of.
   </em> 
   <br>
-  <img src="https://i.pinimg.com/originals/35/7a/2e/357a2ee20c9f3450047801817fda2670.gif" width="60" /> <img src="https://i.pinimg.com/originals/cb/a9/fa/cba9fa3707c3af2da4585eb372f71f99.gif" width="60" /> <b><i>“Every challenge is an opportunity to grow and shine brighter.”</i></b> <img src="https://i.pinimg.com/originals/cb/a9/fa/cba9fa3707c3af2da4585eb372f71f99.gif" width="60" /> <img src="https://i.pinimg.com/originals/35/7a/2e/357a2ee20c9f3450047801817fda2670.gif" width="60" />
+  <img src="https://i.pinimg.com/originals/cb/a9/fa/cba9fa3707c3af2da4585eb372f71f99.gif" width="60" /> <b><i>“Every challenge is an opportunity to grow and shine brighter.”</i></b> <img src="https://i.pinimg.com/originals/cb/a9/fa/cba9fa3707c3af2da4585eb372f71f99.gif" width="60" /> 
 </p>
 
 <img src="https://i.pinimg.com/originals/1d/2e/a6/1d2ea6623a042ffd7a507c5716b76b69.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ I am currently learning some programming languages, mainly focused on queries for data analysis. I will be posting some of the projects I work on in case anyone wants to check them out.
+- I am currently learning some programming languages, mainly focused on queries for data analysis. I will be posting some of the projects I work on in case anyone wants to check them out.
 
 <hr>
 
@@ -43,7 +43,7 @@ contribute value to every project I’m part of.
   </code> <img height="50" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> </code>
 
   
-<img src="https://i.pinimg.com/originals/1d/2e/a6/1d2ea6623a042ffd7a507c5716b76b69.gif" width="30px">&nbsp;***other tools that i know how to use***
+<img src="https://i.pinimg.com/originals/1d/2e/a6/1d2ea6623a042ffd7a507c5716b76b69.gif" width="30px">&nbsp;***Other tools that i know how to use***
 <p align="left">
 
   </code> <img height="50" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> </code>
